@@ -10,6 +10,6 @@ public class Main {
         double d = .00001234;
         boolean bool = true;
 
-        System.out.printf("Значения переменных:\nb = %x;\ns = %x;\ni = %d;\nl = %x;\nc = %s;\nf = %.2f;\nd = %.8f;\nbool = %s;",b,s,i,l,c,f,d,bool);
+        System.out.printf("Значения переменных:\nb =" + " 0x" + "%x;\ns =" + " 0x" + "%x;\ni = %d;\nl =" + " 0x" + "%x;\nc = " + "'" + "%c" + "'" + ";\nf = %.2f;\nd = %.8f;\nbool = %s;",b,s,i,l,c,f,d,bool);
     }
 }

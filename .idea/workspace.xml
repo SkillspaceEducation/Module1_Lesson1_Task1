@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7521040f-54a6-4397-b6eb-f9792da4541d" name="Changes" comment="Задание 1.&#10;Переменные и типы данных&#10;&#10;Написать код, который выведет значения переменных на экран:&#10;byte b = 0x55;&#10;short s = 0x55ff;&#10;int i = 1000000;&#10;long l = 0xffffffffL;&#10;char c = 'a';&#10;float f = .25f;&#10;double d = .00001234;&#10;boolean bool = true;" />
+    <list default="true" id="7521040f-54a6-4397-b6eb-f9792da4541d" name="Changes" comment="Задание 1.&#10;Переменные и типы данных&#10;&#10;Написать код, который выведет значения переменных на экран:&#10;byte b = 0x55;&#10;short s = 0x55ff;&#10;int i = 1000000;&#10;long l = 0xffffffffL;&#10;char c = 'a';&#10;float f = .25f;&#10;double d = .00001234;&#10;boolean bool = true;">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678637023902</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Задание 1.&#10;Переменные и типы данных&#10;&#10;Написать код, который выведет значения переменных на экран:&#10;byte b = 0x55;&#10;short s = 0x55ff;&#10;int i = 1000000;&#10;long l = 0xffffffffL;&#10;char c = 'a';&#10;float f = .25f;&#10;double d = .00001234;&#10;boolean bool = true;">
+      <created>1678637113702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678637113703</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
